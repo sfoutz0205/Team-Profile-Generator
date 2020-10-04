@@ -16,10 +16,8 @@
     "url": "https://github.com/sfoutz0205/Team-Profile-Generator/issues"
   },
   "homepage": "https://github.com/sfoutz0205/Team-Profile-Generator#readme",
-  "devDependencies": {
-    "jest": "^26.4.2"
-  },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.2"
   }
 }
